@@ -1,5 +1,4 @@
-# Potoceanu Ana-Maria
-# Grupa 321CA
+
 # PA - Tema 2 - Politisti, Programatori si Scandal
 
 # Numarare
